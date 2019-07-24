@@ -1,0 +1,21 @@
+.container{
+background-image: url(pic.jpeg);
+background-size:80%;
+background-color:#777777;
+height:70vh;
+width:50%;
+background-repeat: no-repeat;
+background-size: cover;
+display: flex;
+flex-direction: column;
+justify-content: center;
+}
+.container h1{
+color :black;
+font-size: 50px;
+margin: 0 10px 0 10px;
+text-align: center;
+}
+input
+{
+font-size: 20px;
